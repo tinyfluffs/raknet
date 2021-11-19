@@ -1,0 +1,17 @@
+!.gitignore
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+/vendor/
+/Godeps/
+.vs-code/
+.vscode/
+.idea/
+.DS_Store
+/run
+/dist
+jungletree
